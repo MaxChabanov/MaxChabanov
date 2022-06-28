@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there!
 
-<!--
-**MaxChabanov/MaxChabanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 14-year-old web developer from Ukraine. I am curently looking for small/medium projects to financially help my family. I have 6 months of experience with Html, CSS, and JavaScript. I also have 3 months of experience with Angular and Angular material
 
-Here are some ideas to get you started:
+Currently working on: A portfolio website
+Currently learning how to: Make animations with CSS
+Looking for help with: Finding work
+My pronouns: he/him
+Fun fact: I really like gradients (and raccoons)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you have any questions/interested in working with me, feel free to message me on discord or via e-mail!
+
+E-mail: maxchabanovfr@gmail.com
+Discord: JustCallMeMax#2353 (id: 764453222848921612)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxChabanov)](https://github.com/MaxChabanov/readme-components)
