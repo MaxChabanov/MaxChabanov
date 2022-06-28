@@ -14,3 +14,4 @@ E-mail: maxchabanovfr@gmail.com
 Discord: JustCallMeMax#2353 (id: 764453222848921612)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxChabanov)](https://github.com/MaxChabanov/readme-components)
+[!Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxChabanov)](https://github.com/MaxChabanov/readme-components)
